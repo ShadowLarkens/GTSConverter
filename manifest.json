@@ -1,0 +1,9 @@
+{
+	"short_name": "GTSConv",
+	"name": "Giantess Converter",
+	"start_url": "/",
+	"background_color": "#1B1B1D",
+	"display": "standalone",
+	"orientation": "landscape",
+	"scope": "/"
+}
